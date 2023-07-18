@@ -1,0 +1,12 @@
+name: binder_cml
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - cartopy
+  - scipy
+  - numpy
+  - ipykernel
+  - matplotlib
+  - xarray
+prefix: /home/jovyan/.conda/envs/binder_cml
